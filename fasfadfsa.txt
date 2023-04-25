@@ -1,6 +1,4 @@
 Hello
-=======
-Hi
 
 update on github
 
