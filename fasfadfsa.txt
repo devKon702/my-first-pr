@@ -2,16 +2,17 @@ Hello
 Hidere
 Wonderfull
 abcxyz{
+bla bla bla
+bla
 .
-.
-.
-.
+bla
 }
 
 update on github
-funtionA();
+funtionA(int a, int b);
 {
-.
+bla
+
 .
 .
 }
