@@ -11,9 +11,7 @@ abcxyz{
 update on github
 funtionA();
 {
-.
-.
-.
+bla
 }
 Hi
 
