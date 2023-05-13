@@ -4,4 +4,7 @@ fasdfsd
 àds
 
 hhhhhhhhh
+for(int i=0; i<n; i++){
+  cout >> "Hello my friend";
+}
 
