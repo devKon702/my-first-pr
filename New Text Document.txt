@@ -10,3 +10,12 @@ for(int i=0; i<n; i++,j--){
   cout >> "Hello my friend";
 }
 
+public class person{
+  private String name;
+  private int age;
+  public person(){
+    name = null;
+    age = 0;
+  }
+}
+
